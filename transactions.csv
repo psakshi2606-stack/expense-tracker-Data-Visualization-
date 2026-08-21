@@ -1,0 +1,159 @@
+date,description,amount,category
+2026-02-01,Monthly rent payment,15000,Rent
+2026-02-02,Miscellaneous expense,218.1,Miscellaneous
+2026-02-03,Phone recharge,229.84,Bills & Utilities
+2026-02-04,Electricity bill,848.23,Bills & Utilities
+2026-02-04,Dinner with friends,547.02,Food & Dining
+2026-02-06,Netflix subscription,343.48,Entertainment
+2026-02-07,Doctor consultation,611.15,Health
+2026-02-08,Dinner with friends,488.01,Food & Dining
+2026-02-08,BigBasket order,809.8,Groceries
+2026-02-10,Dinner with friends,472.93,Food & Dining
+2026-02-12,Movie tickets,414.42,Entertainment
+2026-02-13,BigBasket order,1002.56,Groceries
+2026-02-17,Zomato order,280.61,Food & Dining
+2026-02-19,Miscellaneous expense,144.09,Miscellaneous
+2026-02-21,Dinner with friends,463.63,Food & Dining
+2026-02-21,Spotify Premium,74.42,Entertainment
+2026-02-21,Petrol refill,651.78,Transport
+2026-02-22,Petrol refill,642.11,Transport
+2026-02-24,Metro card recharge,108.2,Transport
+2026-02-26,Internet bill,599.24,Bills & Utilities
+2026-02-27,Pharmacy purchase,299.05,Health
+2026-03-01,Monthly rent payment,15000,Rent
+2026-03-02,Miscellaneous expense,118.18,Miscellaneous
+2026-03-04,Miscellaneous expense,201.54,Miscellaneous
+2026-03-05,Doctor consultation,587.73,Health
+2026-03-07,Internet bill,599.11,Bills & Utilities
+2026-03-07,Spotify Premium,94.84,Entertainment
+2026-03-08,Udemy course,568.3,Education
+2026-03-09,Dinner with friends,680.27,Food & Dining
+2026-03-11,Miscellaneous expense,253.72,Miscellaneous
+2026-03-13,Electricity bill,1140.83,Bills & Utilities
+2026-03-14,Miscellaneous expense,249.4,Miscellaneous
+2026-03-15,Local grocery store,347.82,Groceries
+2026-03-16,Miscellaneous expense,219.79,Miscellaneous
+2026-03-16,BigBasket order,574.47,Groceries
+2026-03-18,Petrol refill,805.0,Transport
+2026-03-19,Netflix subscription,210.03,Entertainment
+2026-03-20,Pharmacy purchase,253.89,Health
+2026-03-22,Dinner with friends,630.63,Food & Dining
+2026-03-25,Myntra order,1342.85,Shopping
+2026-03-26,Zomato order,365.05,Food & Dining
+2026-03-26,BigBasket order,863.92,Groceries
+2026-03-27,Zomato order,380.07,Food & Dining
+2026-03-27,BigBasket order,924.51,Groceries
+2026-03-28,Book purchase,530.17,Education
+2026-03-28,Miscellaneous expense,153.01,Miscellaneous
+2026-04-01,Monthly rent payment,15000,Rent
+2026-04-02,Zomato order,259.44,Food & Dining
+2026-04-03,Udemy course,842.87,Education
+2026-04-06,Myntra order,1402.44,Shopping
+2026-04-09,Electricity bill,1067.36,Bills & Utilities
+2026-04-09,Udemy course,639.02,Education
+2026-04-09,Pharmacy purchase,416.03,Health
+2026-04-10,Miscellaneous expense,130.96,Miscellaneous
+2026-04-11,BigBasket order,630.32,Groceries
+2026-04-11,BigBasket order,733.52,Groceries
+2026-04-15,Internet bill,599.36,Bills & Utilities
+2026-04-15,Doctor consultation,669.43,Health
+2026-04-16,Amazon purchase,909.62,Shopping
+2026-04-18,BigBasket order,611.12,Groceries
+2026-04-18,Udemy course,471.78,Education
+2026-04-19,Dinner with friends,577.25,Food & Dining
+2026-04-21,Amazon purchase,406.49,Shopping
+2026-04-21,Dinner with friends,609.11,Food & Dining
+2026-04-22,Myntra order,898.99,Shopping
+2026-04-22,Pharmacy purchase,175.47,Health
+2026-04-24,Udemy course,691.87,Education
+2026-04-24,Book purchase,343.82,Education
+2026-04-25,Pharmacy purchase,400.81,Health
+2026-04-26,Udemy course,802.39,Education
+2026-04-28,Zomato order,379.69,Food & Dining
+2026-05-01,Monthly rent payment,15000,Rent
+2026-05-02,Dinner with friends,635.44,Food & Dining
+2026-05-03,BigBasket order,539.74,Groceries
+2026-05-03,Netflix subscription,376.69,Entertainment
+2026-05-05,Electricity bill,938.12,Bills & Utilities
+2026-05-05,Spotify Premium,114.07,Entertainment
+2026-05-07,Miscellaneous expense,286.94,Miscellaneous
+2026-05-14,Amazon purchase,1229.07,Shopping
+2026-05-15,Myntra order,784.99,Shopping
+2026-05-16,Electricity bill,826.07,Bills & Utilities
+2026-05-17,Miscellaneous expense,111.38,Miscellaneous
+2026-05-17,BigBasket order,811.83,Groceries
+2026-05-18,Miscellaneous expense,233.57,Miscellaneous
+2026-05-19,Myntra order,619.89,Shopping
+2026-05-19,BigBasket order,765.81,Groceries
+2026-05-20,Miscellaneous expense,154.47,Miscellaneous
+2026-05-21,Myntra order,703.6,Shopping
+2026-05-24,Netflix subscription,368.4,Entertainment
+2026-05-25,Movie tickets,356.91,Entertainment
+2026-05-26,Miscellaneous expense,222.34,Miscellaneous
+2026-05-27,Zomato order,338.8,Food & Dining
+2026-05-28,Spotify Premium,95.75,Entertainment
+2026-06-01,Monthly rent payment,15000,Rent
+2026-06-01,Uber ride,223.4,Transport
+2026-06-02,Miscellaneous expense,185.96,Miscellaneous
+2026-06-03,Doctor consultation,611.44,Health
+2026-06-04,Miscellaneous expense,287.85,Miscellaneous
+2026-06-05,Zomato order,296.7,Food & Dining
+2026-06-07,Amazon purchase,335.5,Shopping
+2026-06-08,Cafe Coffee Day,168.91,Food & Dining
+2026-06-08,Pharmacy purchase,399.96,Health
+2026-06-09,Netflix subscription,309.54,Entertainment
+2026-06-12,Metro card recharge,102.88,Transport
+2026-06-12,Zomato order,333.52,Food & Dining
+2026-06-13,Movie tickets,415.47,Entertainment
+2026-06-15,Udemy course,538.89,Education
+2026-06-17,Internet bill,599.24,Bills & Utilities
+2026-06-18,Netflix subscription,340.13,Entertainment
+2026-06-23,Pharmacy purchase,180.21,Health
+2026-06-26,Movie tickets,461.82,Entertainment
+2026-06-26,Metro card recharge,173.96,Transport
+2026-06-26,Pharmacy purchase,222.04,Health
+2026-06-28,Local grocery store,465.24,Groceries
+2026-06-28,Local grocery store,496.54,Groceries
+2026-06-28,Internet bill,599.33,Bills & Utilities
+2026-07-01,Monthly rent payment,15000,Rent
+2026-07-03,Miscellaneous expense,172.84,Miscellaneous
+2026-07-07,Pharmacy purchase,232.05,Health
+2026-07-07,Myntra order,724.64,Shopping
+2026-07-08,Myntra order,994.38,Shopping
+2026-07-08,Miscellaneous expense,110.04,Miscellaneous
+2026-07-10,Doctor consultation,660.96,Health
+2026-07-10,Pharmacy purchase,316.19,Health
+2026-07-15,Doctor consultation,686.0,Health
+2026-07-16,Uber ride,106.47,Transport
+2026-07-17,Metro card recharge,106.78,Transport
+2026-07-21,Local grocery store,340.91,Groceries
+2026-07-22,Local grocery store,372.42,Groceries
+2026-07-22,Miscellaneous expense,138.37,Miscellaneous
+2026-07-23,Pharmacy purchase,218.78,Health
+2026-07-25,Electricity bill,1225.58,Bills & Utilities
+2026-07-25,Metro card recharge,155.01,Transport
+2026-07-26,Pharmacy purchase,290.38,Health
+2026-07-26,Myntra order,1293.74,Shopping
+2026-07-26,Local grocery store,274.41,Groceries
+2026-07-28,Phone recharge,249.35,Bills & Utilities
+2026-08-01,Monthly rent payment,15000,Rent
+2026-08-01,Dinner with friends,521.72,Food & Dining
+2026-08-05,Pharmacy purchase,376.94,Health
+2026-08-05,Zomato order,339.98,Food & Dining
+2026-08-08,Spotify Premium,95.93,Entertainment
+2026-08-09,Pharmacy purchase,281.82,Health
+2026-08-10,Movie tickets,313.95,Entertainment
+2026-08-11,Doctor consultation,511.61,Health
+2026-08-13,BigBasket order,587.48,Groceries
+2026-08-13,Zomato order,366.6,Food & Dining
+2026-08-13,Udemy course,471.65,Education
+2026-08-14,Metro card recharge,117.12,Transport
+2026-08-14,Doctor consultation,717.04,Health
+2026-08-15,Miscellaneous expense,290.01,Miscellaneous
+2026-08-16,Udemy course,783.94,Education
+2026-08-18,Miscellaneous expense,266.11,Miscellaneous
+2026-08-18,Myntra order,835.85,Shopping
+2026-08-19,Miscellaneous expense,281.39,Miscellaneous
+2026-08-22,Udemy course,809.96,Education
+2026-08-27,Book purchase,455.6,Education
+2026-08-28,Internet bill,599.3,Bills & Utilities
